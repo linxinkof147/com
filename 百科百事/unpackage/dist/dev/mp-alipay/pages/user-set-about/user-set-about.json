@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "关于仿糗百",
+  "usingComponents": {
+    "home-list-item": "/components/home/home-list-item"
+  }
+}

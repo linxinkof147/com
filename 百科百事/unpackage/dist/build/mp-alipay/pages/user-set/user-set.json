@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "设置",
+  "usingComponents": {
+    "home-list-item": "/components/home/home-list-item"
+  }
+}
